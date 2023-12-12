@@ -603,7 +603,6 @@
     "referral": "Geekhaven"
   },
   {
-
     "name": "Nitheesh",
     "imageurl": "https://avatars.githubusercontent.com/u/76743080?s=400&v=4",
     "about": "I'm a Flutter developer.",
@@ -1925,15 +1924,15 @@
     "referral": "Devfolio"
   },
   {
-     "name" : "Ujjawal Sharma",
-     "imageurl" : "https://avatars.githubusercontent.com/u/64632969?v=4",
-     "about" : "Hello I'm a web developer and a Open Source Enthusiast",
-     "college" : "IIT BHU Varanasi",
-     "facebook" : "",
-     "github" : "https://www.github.com/ujju20",
-     "twitter" : "",
-     "referral" : "None"
-   },
+    "name": "Ujjawal Sharma",
+    "imageurl": "https://avatars.githubusercontent.com/u/64632969?v=4",
+    "about": "Hello I'm a web developer and a Open Source Enthusiast",
+    "college": "IIT BHU Varanasi",
+    "facebook": "",
+    "github": "https://www.github.com/ujju20",
+    "twitter": "",
+    "referral": "None"
+  },
   {
     "name": "Rushil Patra",
     "imageurl": "https://avatars.githubusercontent.com/u/70966802?v=4",
@@ -1964,7 +1963,7 @@
     "twitter": "",
     "referral": "IIIT A"
   },
-    {
+  {
     "name": "Akshitha Ketiri",
     "imageurl": "",
     "about": "Hey! I'm a web developer",
@@ -1975,26 +1974,25 @@
     "referral": "IIITA"
   },
   {
-       "name" : "Sunku Sai Thanmai deepthi",
-       "imageurl" : "https://avatars.githubusercontent.com/u/91211481?v=4",
-       "about" : "Hello I'm a web developer",
-       "college" : "IIITA",
-       "facebook" : "",
-       "github" : "https://github.com/Thanmai24",
-       "twitter" : "",
-       "referral" : "IIITA"
-    },
-    {
-         "name" : "Sathwik Kuppam",
-         "imageurl" : "https://avatars.githubusercontent.com/u/76401429?v=4",
-         "about" : "Hello I'm a web developer",
-         "college" : "IIITA",
-         "facebook" : "",
-         "github" : "https://github.com/Ksathwik03",
-         "twitter" : "",
-         "referral" : "IIITA"
-    },
-
+    "name": "Sunku Sai Thanmai deepthi",
+    "imageurl": "https://avatars.githubusercontent.com/u/91211481?v=4",
+    "about": "Hello I'm a web developer",
+    "college": "IIITA",
+    "facebook": "",
+    "github": "https://github.com/Thanmai24",
+    "twitter": "",
+    "referral": "IIITA"
+  },
+  {
+    "name": "Sathwik Kuppam",
+    "imageurl": "https://avatars.githubusercontent.com/u/76401429?v=4",
+    "about": "Hello I'm a web developer",
+    "college": "IIITA",
+    "facebook": "",
+    "github": "https://github.com/Ksathwik03",
+    "twitter": "",
+    "referral": "IIITA"
+  },
   {
     "name": "Priyanshu kumar",
     "imageurl": "https://avatars.githubusercontent.com/u/91563559",
@@ -2005,5 +2003,14 @@
     "twitter": "",
     "referral": "Seniors"
   },
+  {
+    "name": "Patel Aryan",
+    "imageurl": "https://avatars.githubusercontent.com/u/98244788?v=4",
+    "about": "Hello I'm a Full stack developer",
+    "college": "IIT BHU Varanasi",
+    "facebook": "",
+    "github": "https://github.com/Eli4479",
+    "twitter": "",
+    "referral": "through seniors of the college"
+  }
 ]
-
